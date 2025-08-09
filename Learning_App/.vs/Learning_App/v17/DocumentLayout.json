@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|c:\\users\\misshi_wm\\source\\repos\\learning_app_aski_cerze_2\\learning_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|solutionrelative:learning_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|c:\\users\\misshi_wm\\source\\repos\\learning_app_aski_cerze_2\\learning_app\\uzivatelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|solutionrelative:learning_app\\uzivatelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|c:\\users\\misshi_wm\\source\\repos\\learning_app_aski_cerze_2\\learning_app\\iuzivatelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|solutionrelative:learning_app\\iuzivatelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|c:\\users\\misshi_wm\\source\\repos\\learning_app_aski_cerze_2\\learning_app\\uzivatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|solutionrelative:learning_app\\uzivatel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|c:\\users\\misshi_wm\\source\\repos\\learning_app_aski_cerze_2\\learning_app\\testzaznam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490809B-F461-4FFE-BE73-5E2AA39ADB1E}|Learning_App\\Learning_App.csproj|solutionrelative:learning_app\\testzaznam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UzivatelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\UzivatelManager.cs",
+              "RelativeDocumentMoniker": "Learning_App\\UzivatelManager.cs",
+              "ToolTip": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\UzivatelManager.cs",
+              "RelativeToolTip": "Learning_App\\UzivatelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:01:18.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Uzivatel.cs",
+              "DocumentMoniker": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\Uzivatel.cs",
+              "RelativeDocumentMoniker": "Learning_App\\Uzivatel.cs",
+              "ToolTip": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\Uzivatel.cs",
+              "RelativeToolTip": "Learning_App\\Uzivatel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwEAAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:59:58.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestZaznam.cs",
+              "DocumentMoniker": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\TestZaznam.cs",
+              "RelativeDocumentMoniker": "Learning_App\\TestZaznam.cs",
+              "ToolTip": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\TestZaznam.cs",
+              "RelativeToolTip": "Learning_App\\TestZaznam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:58:48.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUzivatelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\IUzivatelManager.cs",
+              "RelativeDocumentMoniker": "Learning_App\\IUzivatelManager.cs",
+              "ToolTip": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\IUzivatelManager.cs",
+              "RelativeToolTip": "Learning_App\\IUzivatelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:58:03.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\Program.cs",
+              "RelativeDocumentMoniker": "Learning_App\\Program.cs",
+              "ToolTip": "C:\\Users\\Misshi_WM\\source\\repos\\Learning_App_Aski_cerze_2\\Learning_App\\Program.cs",
+              "RelativeToolTip": "Learning_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:54:04.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
